@@ -9,8 +9,7 @@
 **/.tools/
 !.husky/
 !.husky/**
-!.github/scripts/
-!.github/scripts/**
+
 **/.gitleaksignore
 **/sonar-project.properties
 **/.scannerwork/
